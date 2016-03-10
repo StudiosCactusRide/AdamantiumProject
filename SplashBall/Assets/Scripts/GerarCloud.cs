@@ -30,6 +30,6 @@ public class GerarCloud : MonoBehaviour {
 		float y = Random.Range (-5.0f, 7.0f);
 
 
-		Instantiate (prefabsObs [i], new Vector3(-31,transform.position.y + y, 0), Quaternion.identity);
+		Instantiate (prefabsObs [i], new Vector3(-31,transform.position.y + y, 1), Quaternion.identity);
 	}
 }
