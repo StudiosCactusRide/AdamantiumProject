@@ -5,6 +5,8 @@ public class GerarBolas : MonoBehaviour {
 
 	private float currentTimeToSpawn;
 	private float timeToSpawn;
+
+
 	[Header("Objetos a serem instanciados")][Space(5)]
 	public GameObject[] prefabsObs;
 
@@ -20,7 +22,7 @@ public class GerarBolas : MonoBehaviour {
 		if (currentTimeToSpawn >= timeToSpawn) {
 			Spawn ();
 			currentTimeToSpawn = 0;
-			timeToSpawn -= 0.1f;
+			timeToSpawn -= 0.03f;
 		}
 	}
 

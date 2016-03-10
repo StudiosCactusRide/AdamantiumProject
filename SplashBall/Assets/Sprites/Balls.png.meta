@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: fc1342df838a0cd4885557e2ff856494
-timeCreated: 1457564273
+timeCreated: 1457625709
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -29,12 +29,7 @@ TextureImporter:
     21300044: Balls_38
     21300046: Balls_39
     21300048: Balls_40
-    21300050: Balls_45
-    21300052: Balls_46
-    21300054: Balls_47
-    21300056: Balls_48
-    21300058: Balls_49
-    21300060: Balls_5
+    21300050: Balls_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -89,7 +84,7 @@ TextureImporter:
         width: 60
         height: 76
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 38}
@@ -108,7 +103,7 @@ TextureImporter:
         width: 72
         height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -26, y: 40.5}
@@ -134,7 +129,7 @@ TextureImporter:
         width: 85
         height: 91
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -4.5, y: 45.5}
@@ -153,7 +148,7 @@ TextureImporter:
         width: 84
         height: 80
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -42, y: 40}
@@ -169,7 +164,7 @@ TextureImporter:
         width: 84
         height: 78
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 39}
@@ -187,7 +182,7 @@ TextureImporter:
         width: 60
         height: 76
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 38}
@@ -206,7 +201,7 @@ TextureImporter:
         width: 72
         height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 40.5}
@@ -233,7 +228,7 @@ TextureImporter:
         width: 85
         height: 91
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -15.5, y: 45.5}
@@ -250,7 +245,7 @@ TextureImporter:
         width: 84
         height: 79
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -34, y: 39.5}
@@ -267,7 +262,7 @@ TextureImporter:
         width: 84
         height: 78
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 39}
@@ -285,7 +280,7 @@ TextureImporter:
         width: 60
         height: 76
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 38}
@@ -304,7 +299,7 @@ TextureImporter:
         width: 72
         height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -25, y: 40.5}
@@ -330,7 +325,7 @@ TextureImporter:
         width: 85
         height: 91
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -1.5, y: 45.5}
@@ -348,7 +343,7 @@ TextureImporter:
         width: 84
         height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: 29, y: 40.5}
@@ -368,7 +363,7 @@ TextureImporter:
         width: 84
         height: 78
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 39}
@@ -386,7 +381,7 @@ TextureImporter:
         width: 60
         height: 76
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 38}
@@ -405,7 +400,7 @@ TextureImporter:
         width: 72
         height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -24, y: 40.5}
@@ -431,7 +426,7 @@ TextureImporter:
         width: 85
         height: 91
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -30.5, y: 45.5}
@@ -447,7 +442,7 @@ TextureImporter:
         width: 84
         height: 80
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -31, y: 40}
@@ -466,7 +461,7 @@ TextureImporter:
         width: 84
         height: 78
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 39}
@@ -484,7 +479,7 @@ TextureImporter:
         width: 60
         height: 76
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 38}
@@ -503,7 +498,7 @@ TextureImporter:
         width: 72
         height: 81
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -36, y: 40.5}
@@ -527,7 +522,7 @@ TextureImporter:
         width: 85
         height: 91
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -37.5, y: 45.5}
@@ -544,7 +539,7 @@ TextureImporter:
         width: 84
         height: 80
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -36, y: 40}
@@ -562,7 +557,7 @@ TextureImporter:
         width: 84
         height: 78
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
       - - {x: -18, y: 39}
@@ -572,223 +567,49 @@ TextureImporter:
         - {x: 38, y: -39}
         - {x: 42, y: -32}
         - {x: 42, y: 39}
-    - name: Balls_45
-      rect:
-        serializedVersion: 2
-        x: 474
-        y: 485
-        width: 91
-        height: 77
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.5, y: -5.5}
-        - {x: -25.5, y: -5.5}
-        - {x: -32.5, y: -12.5}
-        - {x: -35.5, y: -16.5}
-        - {x: -35.5, y: -30.5}
-        - {x: -18.5, y: -30.5}
-        - {x: -15.5, y: -25.5}
-        - {x: -15.5, y: -6.5}
-      - - {x: 28.5, y: -4.5}
-        - {x: 12.5, y: -4.5}
-        - {x: 12.5, y: -24.5}
-        - {x: 16.5, y: -25.5}
-        - {x: 34.5, y: -25.5}
-        - {x: 35.5, y: -22.5}
-        - {x: 35.5, y: -12.5}
-      - - {x: -43.5, y: 27.5}
-        - {x: -44.5, y: 24.5}
-        - {x: -44.5, y: 10.5}
-        - {x: -41.5, y: 9.5}
-        - {x: -21.5, y: 9.5}
-        - {x: -15.5, y: 19.5}
-        - {x: -15.5, y: 27.5}
-      - - {x: 17.5, y: 34.5}
-        - {x: 13.5, y: 30.5}
-        - {x: 12.5, y: 26.5}
-        - {x: 12.5, y: 19.5}
-        - {x: 15.5, y: 17.5}
-        - {x: 31.5, y: 17.5}
-        - {x: 37.5, y: 19.5}
-        - {x: 37.5, y: 33.5}
-        - {x: 35.5, y: 34.5}
-    - name: Balls_46
-      rect:
-        serializedVersion: 2
-        x: 469
-        y: 375
-        width: 89
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: -9}
-        - {x: -32.5, y: -19}
-        - {x: -32.5, y: -34}
-        - {x: -15.5, y: -34}
-        - {x: -12.5, y: -30}
-        - {x: -12.5, y: -9}
-      - - {x: 31.5, y: -8}
-        - {x: 16.5, y: -8}
-        - {x: 15.5, y: -9}
-        - {x: 15.5, y: -27}
-        - {x: 20.5, y: -29}
-        - {x: 37.5, y: -29}
-        - {x: 38.5, y: -26}
-        - {x: 38.5, y: -16}
-      - - {x: -39.5, y: 24}
-        - {x: -41.5, y: 23}
-        - {x: -41.5, y: 6}
-        - {x: -21.5, y: 6}
-        - {x: -12.5, y: 14}
-        - {x: -12.5, y: 24}
-      - - {x: 18.5, y: 14}
-        - {x: 34.5, y: 14}
-        - {x: 40.5, y: 16}
-        - {x: 40.5, y: 28}
-        - {x: 39.5, y: 31}
-        - {x: 24.5, y: 31}
-        - {x: 15.5, y: 29}
-        - {x: 15.5, y: 16}
-    - name: Balls_47
-      rect:
-        serializedVersion: 2
-        x: 475
-        y: 273
-        width: 89
-        height: 77
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -22.5, y: -8.5}
-        - {x: -30.5, y: -15.5}
-        - {x: -33.5, y: -18.5}
-        - {x: -33.5, y: -33.5}
-        - {x: -16.5, y: -33.5}
-        - {x: -13.5, y: -29.5}
-        - {x: -13.5, y: -8.5}
-      - - {x: 30.5, y: -7.5}
-        - {x: 15.5, y: -7.5}
-        - {x: 14.5, y: -8.5}
-        - {x: 14.5, y: -26.5}
-        - {x: 19.5, y: -28.5}
-        - {x: 36.5, y: -28.5}
-        - {x: 37.5, y: -25.5}
-        - {x: 37.5, y: -15.5}
-      - - {x: -13.5, y: 24.5}
-        - {x: -40.5, y: 24.5}
-        - {x: -42.5, y: 20.5}
-        - {x: -42.5, y: 9.5}
-        - {x: -39.5, y: 6.5}
-        - {x: -25.5, y: 6.5}
-        - {x: -22.5, y: 7.5}
-        - {x: -14.5, y: 14.5}
-        - {x: -13.5, y: 17.5}
-      - - {x: 17.5, y: 14.5}
-        - {x: 33.5, y: 14.5}
-        - {x: 39.5, y: 16.5}
-        - {x: 39.5, y: 28.5}
-        - {x: 38.5, y: 31.5}
-        - {x: 23.5, y: 31.5}
-        - {x: 14.5, y: 29.5}
-        - {x: 14.5, y: 16.5}
-    - name: Balls_48
-      rect:
-        serializedVersion: 2
-        x: 479
-        y: 166
-        width: 90
-        height: 68
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -36, y: -33}
-        - {x: -17, y: -33}
-        - {x: -16, y: -29}
-        - {x: -16, y: -8}
-        - {x: -29, y: -8}
-        - {x: -36, y: -11}
-      - - {x: 28, y: -7}
-        - {x: 13, y: -7}
-        - {x: 12, y: -8}
-        - {x: 12, y: -26}
-        - {x: 17, y: -28}
-        - {x: 34, y: -28}
-        - {x: 35, y: -25}
-        - {x: 35, y: -15}
-      - - {x: -16, y: 25}
-        - {x: -43, y: 25}
-        - {x: -45, y: 21}
-        - {x: -45, y: 10}
-        - {x: -42, y: 7}
-        - {x: -28, y: 7}
-        - {x: -25, y: 8}
-        - {x: -17, y: 15}
-        - {x: -16, y: 18}
-      - - {x: 12, y: 17}
-        - {x: 14, y: 15}
-        - {x: 31, y: 15}
-        - {x: 37, y: 16}
-        - {x: 37, y: 32}
-        - {x: 16, y: 32}
-        - {x: 12, y: 25}
-    - name: Balls_49
-      rect:
-        serializedVersion: 2
-        x: 485
-        y: 51
-        width: 84
-        height: 70
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -33, y: -34}
-        - {x: -14, y: -34}
-        - {x: -13, y: -30}
-        - {x: -13, y: -9}
-        - {x: -26, y: -9}
-        - {x: -33, y: -12}
-      - - {x: 31, y: -8}
-        - {x: 16, y: -8}
-        - {x: 15, y: -9}
-        - {x: 15, y: -27}
-        - {x: 20, y: -29}
-        - {x: 37, y: -29}
-        - {x: 38, y: -26}
-        - {x: 38, y: -16}
-      - - {x: -13, y: 24}
-        - {x: -40, y: 24}
-        - {x: -42, y: 20}
-        - {x: -42, y: 9}
-        - {x: -39, y: 6}
-        - {x: -25, y: 6}
-        - {x: -22, y: 7}
-        - {x: -14, y: 14}
-        - {x: -13, y: 17}
-      - - {x: 15, y: 16}
-        - {x: 17, y: 14}
-        - {x: 34, y: 14}
-        - {x: 40, y: 15}
-        - {x: 40, y: 31}
-        - {x: 19, y: 31}
-        - {x: 15, y: 24}
     - name: Balls_5
       rect:
         serializedVersion: 2
-        x: 556
-        y: 413
-        width: 64
-        height: 73
+        x: 473
+        y: 488
+        width: 87
+        height: 79
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
+      outline:
+      - - {x: -21.5, y: -9.5}
+        - {x: -29.5, y: -16.5}
+        - {x: -32.5, y: -19.5}
+        - {x: -32.5, y: -34.5}
+        - {x: -15.5, y: -34.5}
+        - {x: -12.5, y: -30.5}
+        - {x: -12.5, y: -9.5}
+      - - {x: 31.5, y: -8.5}
+        - {x: 16.5, y: -8.5}
+        - {x: 15.5, y: -9.5}
+        - {x: 15.5, y: -27.5}
+        - {x: 20.5, y: -29.5}
+        - {x: 37.5, y: -29.5}
+        - {x: 38.5, y: -26.5}
+        - {x: 38.5, y: -16.5}
+      - - {x: -12.5, y: 23.5}
+        - {x: -39.5, y: 23.5}
+        - {x: -41.5, y: 19.5}
+        - {x: -41.5, y: 8.5}
+        - {x: -38.5, y: 5.5}
+        - {x: -24.5, y: 5.5}
+        - {x: -21.5, y: 6.5}
+        - {x: -13.5, y: 13.5}
+        - {x: -12.5, y: 16.5}
+      - - {x: 18.5, y: 13.5}
+        - {x: 34.5, y: 13.5}
+        - {x: 40.5, y: 15.5}
+        - {x: 40.5, y: 27.5}
+        - {x: 39.5, y: 30.5}
+        - {x: 24.5, y: 30.5}
+        - {x: 15.5, y: 28.5}
+        - {x: 15.5, y: 15.5}
     outline: []
   spritePackingTag: 
   userData: 
