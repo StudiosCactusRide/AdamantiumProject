@@ -1,18 +1,14 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{B0165FEF-B7A0-B52C-B74B-54624B1972C0}") = "SplashBall", "Assembly-CSharp.csproj", "{41C28D9E-2AA9-3119-4240-D48BE151EEBA}"
-EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{41C28D9E-2AA9-3119-4240-D48BE151EEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{41C28D9E-2AA9-3119-4240-D48BE151EEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{41C28D9E-2AA9-3119-4240-D48BE151EEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{41C28D9E-2AA9-3119-4240-D48BE151EEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
